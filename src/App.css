@@ -1,0 +1,14 @@
+.heading{
+  text-align: center;
+}
+
+.Bigdiv{
+  display: grid;
+  grid-template-columns: repeat(2,300px);
+  gap: 20px;
+  justify-content: center;
+}
+
+img{
+  width: 100%;
+}
